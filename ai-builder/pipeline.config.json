@@ -1,0 +1,13 @@
+{
+  "PROJECT_NAME": "main",
+  "PROJECT_ROOT": "ai-builder/project",
+  "SYSTEM_PATH": "ai-builder/system",
+  "ARTIFACTS_PATH": "ai-builder/project/artifacts",
+  "SCREENSHOTS_PATH": "ai-builder/project/ui/screenshots",
+  "CONTEXT_PATH": "ai-builder/project/context",
+  "PROMPTS_PATH": "ai-builder/system/prompts",
+  "TEMPLATES_PATH": "ai-builder/system/templates",
+  "RULES_PATH": "ai-builder/system/rules",
+  "GENERATED_DOCS_LANGUAGE": "Spanish",
+  "IMPLEMENTATION_CODE_LANGUAGE": "English"
+}
